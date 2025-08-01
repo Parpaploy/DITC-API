@@ -10,3 +10,7 @@ export interface IStaff {
   category: string; // relate with staff_category
   position: string;
 }
+
+export interface IStaffPage {
+  projects: IStaff[];
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": 2,
+    "documentId": "tfogsa84afwunndmumlx4786",
+    "createdAt": "2025-08-01T08:58:30.278Z",
+    "updatedAt": "2025-08-01T08:58:30.278Z",
+    "publishedAt": "2025-08-01T08:58:30.300Z",
+    "infos": [
+      {
+        "id": 2,
+        "documentId": "emvhynvo53dfhgoo6lut1qyl",
+        "title": "News1",
+        "date": "2025-08-01",
+        "createdAt": "2025-08-01T08:56:59.461Z",
+        "updatedAt": "2025-08-01T08:56:59.461Z",
+        "publishedAt": "2025-08-01T08:56:59.589Z"
+      }
+    ]
+  },
+  "meta": {}
+}

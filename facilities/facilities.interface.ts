@@ -18,3 +18,7 @@ export interface IFacilitiesDetail {
   contact_link: string;
   location: string;
 }
+
+export interface IFacilitiesPage {
+  projects: IFacilities[];
+}

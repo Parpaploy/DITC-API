@@ -1,0 +1,32 @@
+{
+  "data": {
+    "id": 2,
+    "documentId": "vc5ke2i03aehrogrz0x6fsu8",
+    "createdAt": "2025-08-01T08:58:25.568Z",
+    "updatedAt": "2025-08-01T08:58:25.568Z",
+    "publishedAt": "2025-08-01T08:58:25.591Z",
+    "staff": [
+      {
+        "id": 4,
+        "documentId": "i8pjm4wjuxkm8giwht5aabf2",
+        "firstname": "Heejae",
+        "lastname": "Ahn",
+        "position": "รองคณบดี",
+        "createdAt": "2025-08-01T08:58:07.046Z",
+        "updatedAt": "2025-08-01T08:58:07.046Z",
+        "publishedAt": "2025-08-01T08:58:07.088Z"
+      },
+      {
+        "id": 2,
+        "documentId": "vgm9y23s0a2nrerqmu9yhaxk",
+        "firstname": "James",
+        "lastname": "Allem",
+        "position": "คณบดี",
+        "createdAt": "2025-08-01T08:57:46.248Z",
+        "updatedAt": "2025-08-01T08:57:46.248Z",
+        "publishedAt": "2025-08-01T08:57:46.292Z"
+      }
+    ]
+  },
+  "meta": {}
+}

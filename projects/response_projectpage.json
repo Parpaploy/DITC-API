@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": 2,
+    "documentId": "ejc00x4bnaou74jgv29rn0u9",
+    "createdAt": "2025-08-01T08:17:16.696Z",
+    "updatedAt": "2025-08-01T08:17:16.696Z",
+    "publishedAt": "2025-08-01T08:17:16.719Z",
+    "projects": [
+      {
+        "id": 3,
+        "documentId": "ffu7yb4svcnsopsukmtg9trm",
+        "title": "Project1",
+        "date": "2025-08-01",
+        "createdAt": "2025-08-01T08:13:54.173Z",
+        "updatedAt": "2025-08-01T08:17:05.583Z",
+        "publishedAt": "2025-08-01T08:17:05.758Z"
+      }
+    ]
+  },
+  "meta": {}
+}

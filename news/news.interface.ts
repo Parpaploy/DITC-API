@@ -13,3 +13,7 @@ export interface INewsDetail {
   date: string;
   desc: string;
 }
+
+export interface INewsPage {
+  projects: INews[];
+}

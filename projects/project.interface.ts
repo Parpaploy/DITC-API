@@ -25,3 +25,7 @@ export interface IProjectDetail {
   link?: string[];
   date: string;
 }
+
+export interface IProjectPage {
+  projects: IProject[];
+}

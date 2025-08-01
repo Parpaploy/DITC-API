@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": 2,
+    "documentId": "j6ocf69ifdhke4dtavuitqvy",
+    "createdAt": "2025-08-01T08:58:34.210Z",
+    "updatedAt": "2025-08-01T08:58:34.210Z",
+    "publishedAt": "2025-08-01T08:58:34.237Z",
+    "facilities": [
+      {
+        "id": 2,
+        "documentId": "rdh1skfxnj39vknikujmai8m",
+        "title": "Facility1",
+        "location": "ชั้น 2  ILC-B609 ",
+        "price_per_hour": "200 บาท /ชั่วโมง",
+        "contact_link": "https://www.google.com/",
+        "createdAt": "2025-08-01T08:56:21.130Z",
+        "updatedAt": "2025-08-01T08:56:21.130Z",
+        "publishedAt": "2025-08-01T08:56:21.204Z"
+      }
+    ]
+  },
+  "meta": {}
+}
