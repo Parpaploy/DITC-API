@@ -1,0 +1,84 @@
+{
+  "data": {
+    "id": 2,
+    "documentId": "d67znb92hvxfa6ez0e8ez88v",
+    "firstname": "James",
+    "lastname": "Allem",
+    "position": "คณบดี",
+    "createdAt": "2025-08-01T04:19:55.429Z",
+    "updatedAt": "2025-08-01T04:19:55.429Z",
+    "publishedAt": "2025-08-01T04:19:56.232Z",
+    "staff_category": null,
+    "profile_image": {
+      "id": 30001,
+      "documentId": "rx65l6r7gdujafgzyzptayi5",
+      "name": "Image 1704x1217.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1704,
+      "height": 1217,
+      "formats": {
+        "large": {
+          "ext": ".jpg",
+          "hash": "large_Image_1704x1217_6ce0fe228b",
+          "height": 714,
+          "mime": "image/jpeg",
+          "name": "large_Image 1704x1217.jpg",
+          "path": null,
+          "size": 67.63,
+          "sizeInBytes": 67632,
+          "url": "/uploads/large_Image_1704x1217_6ce0fe228b.jpg",
+          "width": 1000
+        },
+        "medium": {
+          "ext": ".jpg",
+          "hash": "medium_Image_1704x1217_6ce0fe228b",
+          "height": 536,
+          "mime": "image/jpeg",
+          "name": "medium_Image 1704x1217.jpg",
+          "path": null,
+          "size": 44.1,
+          "sizeInBytes": 44097,
+          "url": "/uploads/medium_Image_1704x1217_6ce0fe228b.jpg",
+          "width": 750
+        },
+        "small": {
+          "ext": ".jpg",
+          "hash": "small_Image_1704x1217_6ce0fe228b",
+          "height": 357,
+          "mime": "image/jpeg",
+          "name": "small_Image 1704x1217.jpg",
+          "path": null,
+          "size": 23.85,
+          "sizeInBytes": 23845,
+          "url": "/uploads/small_Image_1704x1217_6ce0fe228b.jpg",
+          "width": 500
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "hash": "thumbnail_Image_1704x1217_6ce0fe228b",
+          "height": 156,
+          "mime": "image/jpeg",
+          "name": "thumbnail_Image 1704x1217.jpg",
+          "path": null,
+          "size": 6.76,
+          "sizeInBytes": 6755,
+          "url": "/uploads/thumbnail_Image_1704x1217_6ce0fe228b.jpg",
+          "width": 219
+        }
+      },
+      "hash": "Image_1704x1217_6ce0fe228b",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 138.89,
+      "url": "/uploads/Image_1704x1217_6ce0fe228b.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-08-01T03:31:21.459Z",
+      "updatedAt": "2025-08-01T03:31:21.459Z",
+      "publishedAt": "2025-08-01T03:31:21.461Z"
+    }
+  },
+  "meta": {}
+}

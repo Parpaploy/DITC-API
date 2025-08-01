@@ -1,0 +1,137 @@
+{
+  "data": {
+    "id": 60003,
+    "documentId": "gpn6lu6e5dz6lmsd0b4rdgtx",
+    "createdAt": "2025-08-01T03:57:59.791Z",
+    "updatedAt": "2025-08-01T03:57:59.791Z",
+    "publishedAt": "2025-08-01T03:58:01.797Z",
+    "title": "title",
+    "date": "2025-08-01",
+    "main_image": {
+      "id": 30001,
+      "documentId": "rx65l6r7gdujafgzyzptayi5",
+      "name": "Image 1704x1217.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1704,
+      "height": 1217,
+      "formats": {
+        "large": {
+          "ext": ".jpg",
+          "hash": "large_Image_1704x1217_6ce0fe228b",
+          "height": 714,
+          "mime": "image/jpeg",
+          "name": "large_Image 1704x1217.jpg",
+          "path": null,
+          "size": 67.63,
+          "sizeInBytes": 67632,
+          "url": "/uploads/large_Image_1704x1217_6ce0fe228b.jpg",
+          "width": 1000
+        },
+        "medium": {
+          "ext": ".jpg",
+          "hash": "medium_Image_1704x1217_6ce0fe228b",
+          "height": 536,
+          "mime": "image/jpeg",
+          "name": "medium_Image 1704x1217.jpg",
+          "path": null,
+          "size": 44.1,
+          "sizeInBytes": 44097,
+          "url": "/uploads/medium_Image_1704x1217_6ce0fe228b.jpg",
+          "width": 750
+        },
+        "small": {
+          "ext": ".jpg",
+          "hash": "small_Image_1704x1217_6ce0fe228b",
+          "height": 357,
+          "mime": "image/jpeg",
+          "name": "small_Image 1704x1217.jpg",
+          "path": null,
+          "size": 23.85,
+          "sizeInBytes": 23845,
+          "url": "/uploads/small_Image_1704x1217_6ce0fe228b.jpg",
+          "width": 500
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "hash": "thumbnail_Image_1704x1217_6ce0fe228b",
+          "height": 156,
+          "mime": "image/jpeg",
+          "name": "thumbnail_Image 1704x1217.jpg",
+          "path": null,
+          "size": 6.76,
+          "sizeInBytes": 6755,
+          "url": "/uploads/thumbnail_Image_1704x1217_6ce0fe228b.jpg",
+          "width": 219
+        }
+      },
+      "hash": "Image_1704x1217_6ce0fe228b",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 138.89,
+      "url": "/uploads/Image_1704x1217_6ce0fe228b.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-08-01T03:31:21.459Z",
+      "updatedAt": "2025-08-01T03:31:21.459Z",
+      "publishedAt": "2025-08-01T03:31:21.461Z"
+    },
+    "project_course": {
+      "id": 10,
+      "documentId": "fdj9dfcs022m0ynnol23c99n",
+      "createdAt": "2025-07-31T07:18:12.909Z",
+      "updatedAt": "2025-07-31T07:18:12.909Z",
+      "publishedAt": "2025-07-31T07:18:13.523Z",
+      "course": "ANI"
+    },
+    "project_categories": [
+      {
+        "id": 2,
+        "documentId": "p9aag0t930x3lzdkfvohf44f",
+        "createdAt": "2025-07-31T07:22:13.043Z",
+        "updatedAt": "2025-07-31T07:22:13.043Z",
+        "publishedAt": "2025-07-31T07:22:13.593Z",
+        "category": "training"
+      }
+    ],
+    "urls": [
+      {
+        "__component": "url-item.urls",
+        "id": 60005,
+        "url": "http://localhost:1337"
+      }
+    ],
+    "ProjectDetail": [
+      {
+        "__component": "project-detail.project-sub-images",
+        "id": 2
+      },
+      {
+        "__component": "project-detail.project-description",
+        "id": 2,
+        "ProjectDescription": [
+          {
+            "children": [
+              {
+                "text": "ewfwerjkwpovfkw[kfkw",
+                "type": "text"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "fekl;qw;flw;f;ewkf;lwekl;fwq",
+                "type": "text"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {}
+}

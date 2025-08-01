@@ -1,0 +1,216 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "documentId": "b0do7g3d1a28es5pjrz6mpym",
+      "createdAt": "2025-08-01T04:17:04.971Z",
+      "updatedAt": "2025-08-01T04:17:04.971Z",
+      "publishedAt": "2025-08-01T04:17:06.134Z",
+      "title": "ห้องปฏิบัติการการวิจัยและทดสอบระบบ",
+      "location": "ชั้น 2 ตึกแค้มเก่า AB2025 ",
+      "price_per_hour": "อัตราค่าบริการ  200บาท/ชั่วโมง",
+      "contact_link": "https://www.google.com/",
+      "main_image": {
+        "id": 30002,
+        "documentId": "xlzy609a1nuc1df4grsvuhd0",
+        "name": "Image from X (3).jpeg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1600,
+        "height": 900,
+        "formats": {
+          "large": {
+            "ext": ".jpeg",
+            "hash": "large_Image_from_X_3_dc9e4f5adc",
+            "height": 563,
+            "mime": "image/jpeg",
+            "name": "large_Image from X (3).jpeg",
+            "path": null,
+            "size": 110.69,
+            "sizeInBytes": 110694,
+            "url": "/uploads/large_Image_from_X_3_dc9e4f5adc.jpeg",
+            "width": 1000
+          },
+          "medium": {
+            "ext": ".jpeg",
+            "hash": "medium_Image_from_X_3_dc9e4f5adc",
+            "height": 422,
+            "mime": "image/jpeg",
+            "name": "medium_Image from X (3).jpeg",
+            "path": null,
+            "size": 62.34,
+            "sizeInBytes": 62340,
+            "url": "/uploads/medium_Image_from_X_3_dc9e4f5adc.jpeg",
+            "width": 750
+          },
+          "small": {
+            "ext": ".jpeg",
+            "hash": "small_Image_from_X_3_dc9e4f5adc",
+            "height": 281,
+            "mime": "image/jpeg",
+            "name": "small_Image from X (3).jpeg",
+            "path": null,
+            "size": 29.4,
+            "sizeInBytes": 29402,
+            "url": "/uploads/small_Image_from_X_3_dc9e4f5adc.jpeg",
+            "width": 500
+          },
+          "thumbnail": {
+            "ext": ".jpeg",
+            "hash": "thumbnail_Image_from_X_3_dc9e4f5adc",
+            "height": 138,
+            "mime": "image/jpeg",
+            "name": "thumbnail_Image from X (3).jpeg",
+            "path": null,
+            "size": 9.34,
+            "sizeInBytes": 9341,
+            "url": "/uploads/thumbnail_Image_from_X_3_dc9e4f5adc.jpeg",
+            "width": 245
+          }
+        },
+        "hash": "Image_from_X_3_dc9e4f5adc",
+        "ext": ".jpeg",
+        "mime": "image/jpeg",
+        "size": 280.68,
+        "url": "/uploads/Image_from_X_3_dc9e4f5adc.jpeg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-08-01T04:08:40.424Z",
+        "updatedAt": "2025-08-01T04:08:40.424Z",
+        "publishedAt": "2025-08-01T04:08:40.425Z"
+      },
+      "FacilityDetail": [
+        {
+          "__component": "facility-detail.facility-sub-images",
+          "id": 2
+        },
+        {
+          "__component": "facility-detail.facility-description",
+          "id": 2,
+          "FacilityDetail": [
+            {
+              "children": [
+                {
+                  "text": "     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "documentId": "ugagqck927knp0fbd3d59ds8",
+      "createdAt": "2025-08-01T04:18:12.624Z",
+      "updatedAt": "2025-08-01T04:18:12.624Z",
+      "publishedAt": "2025-08-01T04:18:13.801Z",
+      "title": "แลป1",
+      "location": "ชั้น 2  ILC-B609 ",
+      "price_per_hour": "300/ชม.",
+      "contact_link": "https://www.google.com/",
+      "main_image": {
+        "id": 3,
+        "documentId": "xoyo7jkgzjpqquel2kjftkem",
+        "name": "220608_gal_1080x1920_pc.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1920,
+        "height": 1080,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "hash": "large_220608_gal_1080x1920_pc_51d960b150",
+            "height": 563,
+            "mime": "image/png",
+            "name": "large_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 645.2,
+            "sizeInBytes": 645204,
+            "url": "/uploads/large_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 1000
+          },
+          "medium": {
+            "ext": ".png",
+            "hash": "medium_220608_gal_1080x1920_pc_51d960b150",
+            "height": 422,
+            "mime": "image/png",
+            "name": "medium_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 395.89,
+            "sizeInBytes": 395890,
+            "url": "/uploads/medium_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 750
+          },
+          "small": {
+            "ext": ".png",
+            "hash": "small_220608_gal_1080x1920_pc_51d960b150",
+            "height": 281,
+            "mime": "image/png",
+            "name": "small_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 202,
+            "sizeInBytes": 201995,
+            "url": "/uploads/small_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 500
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "hash": "thumbnail_220608_gal_1080x1920_pc_51d960b150",
+            "height": 138,
+            "mime": "image/png",
+            "name": "thumbnail_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 65.28,
+            "sizeInBytes": 65277,
+            "url": "/uploads/thumbnail_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 245
+          }
+        },
+        "hash": "220608_gal_1080x1920_pc_51d960b150",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 400.36,
+        "url": "/uploads/220608_gal_1080x1920_pc_51d960b150.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-07-31T08:17:18.039Z",
+        "updatedAt": "2025-07-31T09:39:55.146Z",
+        "publishedAt": "2025-07-31T08:17:18.039Z"
+      },
+      "FacilityDetail": [
+        {
+          "__component": "facility-detail.facility-description",
+          "id": 4,
+          "FacilityDetail": [
+            {
+              "children": [
+                {
+                  "text": "     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ]
+        },
+        {
+          "__component": "facility-detail.facility-sub-images",
+          "id": 4
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "documentId": "d67znb92hvxfa6ez0e8ez88v",
+      "firstname": "James",
+      "lastname": "Allem",
+      "position": "คณบดี",
+      "createdAt": "2025-08-01T04:19:55.429Z",
+      "updatedAt": "2025-08-01T04:19:55.429Z",
+      "publishedAt": "2025-08-01T04:19:56.232Z",
+      "staff_category": null,
+      "profile_image": {
+        "id": 30001,
+        "documentId": "rx65l6r7gdujafgzyzptayi5",
+        "name": "Image 1704x1217.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1704,
+        "height": 1217,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "hash": "large_Image_1704x1217_6ce0fe228b",
+            "height": 714,
+            "mime": "image/jpeg",
+            "name": "large_Image 1704x1217.jpg",
+            "path": null,
+            "size": 67.63,
+            "sizeInBytes": 67632,
+            "url": "/uploads/large_Image_1704x1217_6ce0fe228b.jpg",
+            "width": 1000
+          },
+          "medium": {
+            "ext": ".jpg",
+            "hash": "medium_Image_1704x1217_6ce0fe228b",
+            "height": 536,
+            "mime": "image/jpeg",
+            "name": "medium_Image 1704x1217.jpg",
+            "path": null,
+            "size": 44.1,
+            "sizeInBytes": 44097,
+            "url": "/uploads/medium_Image_1704x1217_6ce0fe228b.jpg",
+            "width": 750
+          },
+          "small": {
+            "ext": ".jpg",
+            "hash": "small_Image_1704x1217_6ce0fe228b",
+            "height": 357,
+            "mime": "image/jpeg",
+            "name": "small_Image 1704x1217.jpg",
+            "path": null,
+            "size": 23.85,
+            "sizeInBytes": 23845,
+            "url": "/uploads/small_Image_1704x1217_6ce0fe228b.jpg",
+            "width": 500
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "hash": "thumbnail_Image_1704x1217_6ce0fe228b",
+            "height": 156,
+            "mime": "image/jpeg",
+            "name": "thumbnail_Image 1704x1217.jpg",
+            "path": null,
+            "size": 6.76,
+            "sizeInBytes": 6755,
+            "url": "/uploads/thumbnail_Image_1704x1217_6ce0fe228b.jpg",
+            "width": 219
+          }
+        },
+        "hash": "Image_1704x1217_6ce0fe228b",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 138.89,
+        "url": "/uploads/Image_1704x1217_6ce0fe228b.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-08-01T03:31:21.459Z",
+        "updatedAt": "2025-08-01T03:31:21.459Z",
+        "publishedAt": "2025-08-01T03:31:21.461Z"
+      }
+    },
+    {
+      "id": 4,
+      "documentId": "tsf4xjik42ul0ggt59fm403o",
+      "firstname": "Heejae",
+      "lastname": "Ahn",
+      "position": "รองคณบดี",
+      "createdAt": "2025-08-01T04:20:25.004Z",
+      "updatedAt": "2025-08-01T04:20:25.004Z",
+      "publishedAt": "2025-08-01T04:20:25.900Z",
+      "staff_category": {
+        "id": 4,
+        "documentId": "du84sq2wtfjtv77vmgcjtckd",
+        "category": "งานการเงิน",
+        "createdAt": "2025-07-31T07:29:02.369Z",
+        "updatedAt": "2025-07-31T07:29:02.369Z",
+        "publishedAt": "2025-07-31T07:29:03.934Z"
+      },
+      "profile_image": {
+        "id": 3,
+        "documentId": "xoyo7jkgzjpqquel2kjftkem",
+        "name": "220608_gal_1080x1920_pc.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1920,
+        "height": 1080,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "hash": "large_220608_gal_1080x1920_pc_51d960b150",
+            "height": 563,
+            "mime": "image/png",
+            "name": "large_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 645.2,
+            "sizeInBytes": 645204,
+            "url": "/uploads/large_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 1000
+          },
+          "medium": {
+            "ext": ".png",
+            "hash": "medium_220608_gal_1080x1920_pc_51d960b150",
+            "height": 422,
+            "mime": "image/png",
+            "name": "medium_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 395.89,
+            "sizeInBytes": 395890,
+            "url": "/uploads/medium_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 750
+          },
+          "small": {
+            "ext": ".png",
+            "hash": "small_220608_gal_1080x1920_pc_51d960b150",
+            "height": 281,
+            "mime": "image/png",
+            "name": "small_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 202,
+            "sizeInBytes": 201995,
+            "url": "/uploads/small_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 500
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "hash": "thumbnail_220608_gal_1080x1920_pc_51d960b150",
+            "height": 138,
+            "mime": "image/png",
+            "name": "thumbnail_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 65.28,
+            "sizeInBytes": 65277,
+            "url": "/uploads/thumbnail_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 245
+          }
+        },
+        "hash": "220608_gal_1080x1920_pc_51d960b150",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 400.36,
+        "url": "/uploads/220608_gal_1080x1920_pc_51d960b150.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-07-31T08:17:18.039Z",
+        "updatedAt": "2025-07-31T09:39:55.146Z",
+        "publishedAt": "2025-07-31T08:17:18.039Z"
+      }
+    },
+    {
+      "id": 6,
+      "documentId": "yo4j9wyiby7prhkl9qh4yhyb",
+      "firstname": "Eric",
+      "lastname": "Almquist",
+      "position": "บรรณารักษ์",
+      "createdAt": "2025-08-01T04:21:07.111Z",
+      "updatedAt": "2025-08-01T04:21:07.111Z",
+      "publishedAt": "2025-08-01T04:21:08.023Z",
+      "staff_category": {
+        "id": 2,
+        "documentId": "w0sz5rnnuqar207rb7cp5kv6",
+        "category": "งานบริหารทั่วไป",
+        "createdAt": "2025-07-31T07:28:52.952Z",
+        "updatedAt": "2025-07-31T07:28:52.952Z",
+        "publishedAt": "2025-07-31T07:28:54.055Z"
+      },
+      "profile_image": {
+        "id": 4,
+        "documentId": "t31coc0uped11yz2rcywbk2y",
+        "name": "IMG_4129.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 3192,
+        "height": 1796,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "hash": "large_IMG_4129_a8c54b1a16",
+            "height": 563,
+            "mime": "image/png",
+            "name": "large_IMG_4129.png",
+            "path": null,
+            "size": 759.25,
+            "sizeInBytes": 759245,
+            "url": "/uploads/large_IMG_4129_a8c54b1a16.png",
+            "width": 1000
+          },
+          "medium": {
+            "ext": ".png",
+            "hash": "medium_IMG_4129_a8c54b1a16",
+            "height": 422,
+            "mime": "image/png",
+            "name": "medium_IMG_4129.png",
+            "path": null,
+            "size": 450.6,
+            "sizeInBytes": 450596,
+            "url": "/uploads/medium_IMG_4129_a8c54b1a16.png",
+            "width": 750
+          },
+          "small": {
+            "ext": ".png",
+            "hash": "small_IMG_4129_a8c54b1a16",
+            "height": 281,
+            "mime": "image/png",
+            "name": "small_IMG_4129.png",
+            "path": null,
+            "size": 214.21,
+            "sizeInBytes": 214209,
+            "url": "/uploads/small_IMG_4129_a8c54b1a16.png",
+            "width": 500
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "hash": "thumbnail_IMG_4129_a8c54b1a16",
+            "height": 138,
+            "mime": "image/png",
+            "name": "thumbnail_IMG_4129.png",
+            "path": null,
+            "size": 59.14,
+            "sizeInBytes": 59144,
+            "url": "/uploads/thumbnail_IMG_4129_a8c54b1a16.png",
+            "width": 245
+          }
+        },
+        "hash": "IMG_4129_a8c54b1a16",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 1865.22,
+        "url": "/uploads/IMG_4129_a8c54b1a16.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-07-31T08:17:19.455Z",
+        "updatedAt": "2025-07-31T08:17:19.455Z",
+        "publishedAt": "2025-07-31T08:17:19.455Z"
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 3
+    }
+  }
+}

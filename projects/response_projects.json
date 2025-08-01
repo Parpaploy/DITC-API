@@ -1,0 +1,291 @@
+{
+  "data": [
+    {
+      "id": 60003,
+      "documentId": "gpn6lu6e5dz6lmsd0b4rdgtx",
+      "createdAt": "2025-08-01T03:57:59.791Z",
+      "updatedAt": "2025-08-01T03:57:59.791Z",
+      "publishedAt": "2025-08-01T03:58:01.797Z",
+      "title": "title",
+      "date": "2025-08-01",
+      "main_image": {
+        "id": 30001,
+        "documentId": "rx65l6r7gdujafgzyzptayi5",
+        "name": "Image 1704x1217.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1704,
+        "height": 1217,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "hash": "large_Image_1704x1217_6ce0fe228b",
+            "height": 714,
+            "mime": "image/jpeg",
+            "name": "large_Image 1704x1217.jpg",
+            "path": null,
+            "size": 67.63,
+            "sizeInBytes": 67632,
+            "url": "/uploads/large_Image_1704x1217_6ce0fe228b.jpg",
+            "width": 1000
+          },
+          "medium": {
+            "ext": ".jpg",
+            "hash": "medium_Image_1704x1217_6ce0fe228b",
+            "height": 536,
+            "mime": "image/jpeg",
+            "name": "medium_Image 1704x1217.jpg",
+            "path": null,
+            "size": 44.1,
+            "sizeInBytes": 44097,
+            "url": "/uploads/medium_Image_1704x1217_6ce0fe228b.jpg",
+            "width": 750
+          },
+          "small": {
+            "ext": ".jpg",
+            "hash": "small_Image_1704x1217_6ce0fe228b",
+            "height": 357,
+            "mime": "image/jpeg",
+            "name": "small_Image 1704x1217.jpg",
+            "path": null,
+            "size": 23.85,
+            "sizeInBytes": 23845,
+            "url": "/uploads/small_Image_1704x1217_6ce0fe228b.jpg",
+            "width": 500
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "hash": "thumbnail_Image_1704x1217_6ce0fe228b",
+            "height": 156,
+            "mime": "image/jpeg",
+            "name": "thumbnail_Image 1704x1217.jpg",
+            "path": null,
+            "size": 6.76,
+            "sizeInBytes": 6755,
+            "url": "/uploads/thumbnail_Image_1704x1217_6ce0fe228b.jpg",
+            "width": 219
+          }
+        },
+        "hash": "Image_1704x1217_6ce0fe228b",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 138.89,
+        "url": "/uploads/Image_1704x1217_6ce0fe228b.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-08-01T03:31:21.459Z",
+        "updatedAt": "2025-08-01T03:31:21.459Z",
+        "publishedAt": "2025-08-01T03:31:21.461Z"
+      },
+      "project_course": {
+        "id": 10,
+        "documentId": "fdj9dfcs022m0ynnol23c99n",
+        "createdAt": "2025-07-31T07:18:12.909Z",
+        "updatedAt": "2025-07-31T07:18:12.909Z",
+        "publishedAt": "2025-07-31T07:18:13.523Z",
+        "course": "ANI"
+      },
+      "project_categories": [
+        {
+          "id": 2,
+          "documentId": "p9aag0t930x3lzdkfvohf44f",
+          "createdAt": "2025-07-31T07:22:13.043Z",
+          "updatedAt": "2025-07-31T07:22:13.043Z",
+          "publishedAt": "2025-07-31T07:22:13.593Z",
+          "category": "training"
+        }
+      ],
+      "urls": [
+        {
+          "__component": "url-item.urls",
+          "id": 60005,
+          "url": "http://localhost:1337"
+        }
+      ],
+      "ProjectDetail": [
+        {
+          "__component": "project-detail.project-sub-images",
+          "id": 2
+        },
+        {
+          "__component": "project-detail.project-description",
+          "id": 2,
+          "ProjectDescription": [
+            {
+              "children": [
+                {
+                  "text": "ewfwerjkwpovfkw[kfkw",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "fekl;qw;flw;f;ewkf;lwekl;fwq",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60005,
+      "documentId": "h8zjrazskxunmchre51lqo5g",
+      "createdAt": "2025-08-01T04:01:33.061Z",
+      "updatedAt": "2025-08-01T04:01:33.061Z",
+      "publishedAt": "2025-08-01T04:01:38.606Z",
+      "title": "Project lorem",
+      "date": "2025-08-07",
+      "main_image": {
+        "id": 3,
+        "documentId": "xoyo7jkgzjpqquel2kjftkem",
+        "name": "220608_gal_1080x1920_pc.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1920,
+        "height": 1080,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "hash": "large_220608_gal_1080x1920_pc_51d960b150",
+            "height": 563,
+            "mime": "image/png",
+            "name": "large_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 645.2,
+            "sizeInBytes": 645204,
+            "url": "/uploads/large_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 1000
+          },
+          "medium": {
+            "ext": ".png",
+            "hash": "medium_220608_gal_1080x1920_pc_51d960b150",
+            "height": 422,
+            "mime": "image/png",
+            "name": "medium_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 395.89,
+            "sizeInBytes": 395890,
+            "url": "/uploads/medium_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 750
+          },
+          "small": {
+            "ext": ".png",
+            "hash": "small_220608_gal_1080x1920_pc_51d960b150",
+            "height": 281,
+            "mime": "image/png",
+            "name": "small_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 202,
+            "sizeInBytes": 201995,
+            "url": "/uploads/small_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 500
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "hash": "thumbnail_220608_gal_1080x1920_pc_51d960b150",
+            "height": 138,
+            "mime": "image/png",
+            "name": "thumbnail_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 65.28,
+            "sizeInBytes": 65277,
+            "url": "/uploads/thumbnail_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 245
+          }
+        },
+        "hash": "220608_gal_1080x1920_pc_51d960b150",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 400.36,
+        "url": "/uploads/220608_gal_1080x1920_pc_51d960b150.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-07-31T08:17:18.039Z",
+        "updatedAt": "2025-07-31T09:39:55.146Z",
+        "publishedAt": "2025-07-31T08:17:18.039Z"
+      },
+      "project_course": {
+        "id": 4,
+        "documentId": "cphzx3c06e8ayrwjgmpldm8w",
+        "createdAt": "2025-07-31T07:17:39.715Z",
+        "updatedAt": "2025-07-31T07:17:43.856Z",
+        "publishedAt": "2025-07-31T07:17:44.712Z",
+        "course": "DG"
+      },
+      "project_categories": [
+        {
+          "id": 8,
+          "documentId": "i948t0nk7oppgskjzan66p90",
+          "createdAt": "2025-07-31T07:22:55.912Z",
+          "updatedAt": "2025-07-31T07:22:55.912Z",
+          "publishedAt": "2025-07-31T07:22:56.373Z",
+          "category": "it consultant"
+        },
+        {
+          "id": 10,
+          "documentId": "gyo8jygf1r7ym5ni1ct6ez1j",
+          "createdAt": "2025-07-31T07:23:06.658Z",
+          "updatedAt": "2025-07-31T07:23:06.658Z",
+          "publishedAt": "2025-07-31T07:23:07.075Z",
+          "category": "e-commerce"
+        }
+      ],
+      "urls": [],
+      "ProjectDetail": [
+        {
+          "__component": "project-detail.project-sub-images",
+          "id": 4
+        },
+        {
+          "__component": "project-detail.project-description",
+          "id": 4,
+          "ProjectDescription": [
+            {
+              "children": [
+                {
+                  "text": "     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}

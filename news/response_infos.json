@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "id": 7,
+      "documentId": "nhn7t5u4y0vnbckpq3li1e6y",
+      "createdAt": "2025-08-01T04:05:55.497Z",
+      "updatedAt": "2025-08-01T04:06:03.826Z",
+      "publishedAt": "2025-08-01T04:06:06.416Z",
+      "title": "Newssss",
+      "date": "2025-08-26",
+      "main_image": {
+        "id": 1,
+        "documentId": "sel6uo4ztq5ynwwuc0vh3b6b",
+        "name": "IMG_5783.jpeg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2573,
+        "height": 1715,
+        "formats": {
+          "large": {
+            "ext": ".jpeg",
+            "hash": "large_IMG_5783_489a68b90b",
+            "height": 667,
+            "mime": "image/jpeg",
+            "name": "large_IMG_5783.jpeg",
+            "path": null,
+            "size": 73.13,
+            "sizeInBytes": 73126,
+            "url": "/uploads/large_IMG_5783_489a68b90b.jpeg",
+            "width": 1000
+          },
+          "medium": {
+            "ext": ".jpeg",
+            "hash": "medium_IMG_5783_489a68b90b",
+            "height": 500,
+            "mime": "image/jpeg",
+            "name": "medium_IMG_5783.jpeg",
+            "path": null,
+            "size": 42.08,
+            "sizeInBytes": 42083,
+            "url": "/uploads/medium_IMG_5783_489a68b90b.jpeg",
+            "width": 750
+          },
+          "small": {
+            "ext": ".jpeg",
+            "hash": "small_IMG_5783_489a68b90b",
+            "height": 333,
+            "mime": "image/jpeg",
+            "name": "small_IMG_5783.jpeg",
+            "path": null,
+            "size": 19.29,
+            "sizeInBytes": 19294,
+            "url": "/uploads/small_IMG_5783_489a68b90b.jpeg",
+            "width": 500
+          },
+          "thumbnail": {
+            "ext": ".jpeg",
+            "hash": "thumbnail_IMG_5783_489a68b90b",
+            "height": 156,
+            "mime": "image/jpeg",
+            "name": "thumbnail_IMG_5783.jpeg",
+            "path": null,
+            "size": 5.23,
+            "sizeInBytes": 5231,
+            "url": "/uploads/thumbnail_IMG_5783_489a68b90b.jpeg",
+            "width": 234
+          }
+        },
+        "hash": "IMG_5783_489a68b90b",
+        "ext": ".jpeg",
+        "mime": "image/jpeg",
+        "size": 548.25,
+        "url": "/uploads/IMG_5783_489a68b90b.jpeg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-07-31T08:16:57.226Z",
+        "updatedAt": "2025-07-31T08:16:57.226Z",
+        "publishedAt": "2025-07-31T08:16:57.226Z"
+      },
+      "NewsDetail": [
+        {
+          "__component": "news-detail.news-sub-images",
+          "id": 3
+        },
+        {
+          "__component": "news-detail.news-description",
+          "id": 3,
+          "NewsDescription": [
+            {
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "documentId": "qdgxakkhrae0hi8u25b7s29u",
+      "createdAt": "2025-08-01T04:05:54.192Z",
+      "updatedAt": "2025-08-01T04:06:27.044Z",
+      "publishedAt": "2025-08-01T04:06:28.871Z",
+      "title": "Newssss",
+      "date": "2025-08-13",
+      "main_image": {
+        "id": 3,
+        "documentId": "xoyo7jkgzjpqquel2kjftkem",
+        "name": "220608_gal_1080x1920_pc.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1920,
+        "height": 1080,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "hash": "large_220608_gal_1080x1920_pc_51d960b150",
+            "height": 563,
+            "mime": "image/png",
+            "name": "large_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 645.2,
+            "sizeInBytes": 645204,
+            "url": "/uploads/large_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 1000
+          },
+          "medium": {
+            "ext": ".png",
+            "hash": "medium_220608_gal_1080x1920_pc_51d960b150",
+            "height": 422,
+            "mime": "image/png",
+            "name": "medium_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 395.89,
+            "sizeInBytes": 395890,
+            "url": "/uploads/medium_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 750
+          },
+          "small": {
+            "ext": ".png",
+            "hash": "small_220608_gal_1080x1920_pc_51d960b150",
+            "height": 281,
+            "mime": "image/png",
+            "name": "small_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 202,
+            "sizeInBytes": 201995,
+            "url": "/uploads/small_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 500
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "hash": "thumbnail_220608_gal_1080x1920_pc_51d960b150",
+            "height": 138,
+            "mime": "image/png",
+            "name": "thumbnail_220608_gal_1080x1920_pc.png",
+            "path": null,
+            "size": 65.28,
+            "sizeInBytes": 65277,
+            "url": "/uploads/thumbnail_220608_gal_1080x1920_pc_51d960b150.png",
+            "width": 245
+          }
+        },
+        "hash": "220608_gal_1080x1920_pc_51d960b150",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 400.36,
+        "url": "/uploads/220608_gal_1080x1920_pc_51d960b150.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-07-31T08:17:18.039Z",
+        "updatedAt": "2025-07-31T09:39:55.146Z",
+        "publishedAt": "2025-07-31T08:17:18.039Z"
+      },
+      "NewsDetail": [
+        {
+          "__component": "news-detail.news-sub-images",
+          "id": 4
+        },
+        {
+          "__component": "news-detail.news-description",
+          "id": 4,
+          "NewsDescription": [
+            {
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}
